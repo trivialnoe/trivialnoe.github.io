@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Girassol', cursive;
+    background-color: black
+    
+   
+}
+
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: whitesmoke;
+    padding-left: 16px;
+    padding-right: 36px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    border-radius: 6px;
+}
+
+.back{
+    display: inline-block;
+    background-color:black;
+    color: #FFF;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-left: 4px;
+}
+
+.back:hover{
+    transform: scale(1.1);
+}

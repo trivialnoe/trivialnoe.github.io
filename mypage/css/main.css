@@ -1,0 +1,26 @@
+.avatar{
+    display: inline-block;
+    vertical-align: top;
+    width: 350px;
+    margin-right: 16px;
+
+}
+
+.about-block{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.about-text{
+    padding-bottom: 16px;
+}
+
+.about-text h2{
+    display: block;
+    text-align: center;
+}
+
+.about-text{
+    text-indent: 20px;
+}
+
