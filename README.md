@@ -1,0 +1,1 @@
+# trivialnoe.github.io
